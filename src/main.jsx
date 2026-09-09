@@ -5,7 +5,7 @@ import {Heart,Music2,Volume2,VolumeX,ChevronDown,Gift,Mail,Sparkles,Send,LockKey
 import './style.css';
 
 const CONFIG={
- name:'Savira', senderName:'Aku', pin:'021128', birthdayDate:'02 November',
+ name:'Savira', senderName:'Nazriel', pin:'151228', birthdayDate:'15 Desember',
  whatsapp:'6283853276614', music:'/music/our-song.mp3',
  photos:{cover:'https://raw.githubusercontent.com/armangzoffc/uploader-nusantara/main/Uploads/1788967547460-e86f9332.jpg',letter1:'https://raw.githubusercontent.com/armangzoffc/uploader-nusantara/main/Uploads/1788967547460-e86f9332.jpg',letter2:'https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1200&q=85',letter3:'https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=1200&q=85',letter4:'https://images.unsplash.com/photo-1513279922550-250c2129b13a?auto=format&fit=crop&w=1200&q=85',special:'https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&w=1200&q=85'},
  gifs:{birthday:'https://media.giphy.com/media/g9582DNuQppxC/giphy.gif',love:'https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif',flower:'https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif'}
